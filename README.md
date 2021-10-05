@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @e-mcgeorge
 - 👀 I’m interested in inverse problems in fluid flows.
-- 🌱 I’m currently learning finite element modelling and optimal control using FEniCS and dolfin-adjoint
-- :snowflake: I hope to apply these modelling techniques to ice flow problems.
+- 🌱 I’m currently learning finite element modelling and optimisation using both FEniCS and dolfin-adjoint
+- :snowflake: I hope to apply these tools inverse problems to ice flow modelling.
 
 <!---
 - 💞️ I’m looking to collaborate on my next project (inverse problems in lava flow).
