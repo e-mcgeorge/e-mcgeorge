@@ -5,7 +5,7 @@ I'm passionate about using numerical models to study fluid flows, particularly i
 
 ### Previous Work
 
-Previously, I have worked extensively on ice flow modeling, leveraging computational techniques (finite element modeling and optimization using the open source packages FEniCS and dolfin-adjoin) to study the dynamics of ice sheets and glaciers. This experience has provided me with a strong foundation in inverse problems and computational fluid dynamics. 
+Previously, I have worked extensively on ice flow modeling, leveraging computational techniques (finite element modeling and optimization using the open source packages FEniCS and dolfin-adjoint) to study the dynamics of ice sheets and glaciers. This experience has provided me with a strong foundation in inverse problems and computational fluid dynamics. 
 
 ### Current Work
 
